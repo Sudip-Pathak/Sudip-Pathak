@@ -1,5 +1,4 @@
-# 💫 About Me: Namaste 🙏, I am Sudip Pathak 👋
-
+# 💫 About Me: Namaste, I am Sudip Pathak 👋
 ## 🌍 Navigating the Digital World from the Peaks of the Mountains 🏞️
 
 
