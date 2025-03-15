@@ -25,8 +25,10 @@
 #### Splunk 📊, Wazuh 🛡️, ELK Stack 🔥
 ## At the moment, I amm immersing myself in:
 ### Governance, Compliance and Risk (GRC)
-### MEERN stack Development
+### Network Security
+### MERN stack Development
 ### Developing and using the Security tools
+## "The best way to predict the future is to invent it." – Alan Kay
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sudip-Pathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sudip-Pathak&theme=dark&hide_border=false)<br/>
