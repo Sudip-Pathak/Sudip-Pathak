@@ -1,6 +1,6 @@
 # 💫 About Me: Namaste 🙏, I am Sudip Pathak 👋
 
-## ## 🌍 Navigating the Digital World from the Peaks of the Mountains 🏞️
+## 🌍 Navigating the Digital World from the Peaks of the Mountains 🏞️
 
 
 # 💻 Tech Stack:
