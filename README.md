@@ -6,7 +6,7 @@
 
 ## 💻 The Tech Stack in My Arsenal
 ### Security Tools 🔐⚙️
-#### Wireshark 🐋, Nmap 🌐, Burp Suite 🕷️, Metasploit 🎯, Kali Linux 🐧, OpenSSL 🔐
+![Wireshark](https://www.wireshark.org/assets/icons/wireshark-fin.png) ![Nmap](https://img.shields.io/badge/Nmap-%23F05032.svg?style=flat-square&logo=nmap&logoColor=white) ![BurpSuite](https://img.shields.io/badge/Burp_Suite-%23FF9900.svg?style=flat-square&logo=burp%20suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23E4405F.svg?style=flat-square&logo=metasploit&logoColor=white) ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-%23000000.svg?style=flat-square&logo=openssl&logoColor=white)
 ### SIEM Tools 🔍⚠️
 #### Splunk 📊, Wazuh 🛡️, ELK Stack 🔥
 ### Languges
