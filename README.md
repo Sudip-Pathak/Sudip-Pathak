@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip-pathak-0842611a1/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sudippathak10000) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29977876) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tw_pathak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudippathak727@gmail.com)
 
 ## 💻 The Tech Stack in My Arsenal
-### Security Tools 🔐🛠️💻⚙️
+### Security Tools 🔐⚙️
 #### Wireshark 🐋, Nmap 🌐, Burp Suite 🕷️, Metasploit 🎯, Kali Linux 🐧, OpenSSL 🔐
-### SIEM Tools 🔍📊⚠️🛡️
+### SIEM Tools 🔍⚠️
 #### Splunk 📊, Wazuh 🛡️, ELK Stack 🔥
 ### Languges
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
