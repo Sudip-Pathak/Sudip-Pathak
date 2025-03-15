@@ -23,6 +23,10 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ### SIEM Tools 🔍⚠️
 #### Splunk 📊, Wazuh 🛡️, ELK Stack 🔥
+## At the moment, I amm immersing myself in:
+### Governance, Compliance and Risk (GRC)
+### MEERN stack Development
+### Developing and using the Security tools
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sudip-Pathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sudip-Pathak&theme=dark&hide_border=false)<br/>
