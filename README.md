@@ -1,5 +1,9 @@
 # 💫 About Me: Namaste, I am Sudip Pathak 👋
 ## 🌍 Navigating the Digital World from the Peaks of the Mountains 🏞️
+#### Hello and welcome to my online space! I am passionate about cybersecurity and fullstack development, working with technology from the beautiful landscapes of Nepal.
+
+
+
 
 
 # 💻 Tech Stack:
