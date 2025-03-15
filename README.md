@@ -3,12 +3,9 @@
 #### Hello and welcome to my online space! I am passionate about cybersecurity and fullstack development, working with technology from the beautiful landscapes of Nepal.
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip-pathak-0842611a1/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sudippathak10000) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29977876) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tw_pathak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudippathak727@gmail.com)
-
 ## 💻 The Tech Stack in My Arsenal
 ### Security Tools 🔐⚙️
 ![Wireshark](https://www.wireshark.org/assets/icons/wireshark-fin.png) ![Nmap](https://img.shields.io/badge/Nmap-%23F05032.svg?style=flat-square&logo=nmap&logoColor=white) ![BurpSuite](https://img.shields.io/badge/Burp_Suite-%23FF9900.svg?style=flat-square&logo=burp%20suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23E4405F.svg?style=flat-square&logo=metasploit&logoColor=white) ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-%23000000.svg?style=flat-square&logo=openssl&logoColor=white)
-### SIEM Tools 🔍⚠️
-#### Splunk 📊, Wazuh 🛡️, ELK Stack 🔥
 ### Languges
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +21,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ### CI/CD VCS
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### SIEM Tools 🔍⚠️
+#### Splunk 📊, Wazuh 🛡️, ELK Stack 🔥
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sudip-Pathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sudip-Pathak&theme=dark&hide_border=false)<br/>
